@@ -1,0 +1,11 @@
+permission_id,subject,no_of_person,date_and_time,brief,location,status,official_id,user_id
+5001,rally,600,"2022-05-10 13:23:44",NO,GANDHINAGAR,Approved,9001,1
+5002,"reliious ",5000,"2022-05-10 12:23:44",NO,GANDHINAGAR,Approved,9002,2
+5003,wedding,240,"2022-05-10 15:23:44",NO,GANDHINAGAR,UnderProgession,9003,3
+5004,wedding,230,"2022-05-10 12:33:44",NO,GANDHINAGAR,UnderProgession,9004,4
+5005,protest,400,"2022-05-10 13:22:44",NO,GANDHINAGAR,Approved,9005,5
+5006,wedding,300,"2022-05-10 16:23:44",NO,GANDHINAGAR,Approved,9006,6
+5007,vip,600,"2022-05-10 14:52:44",NO,GANDHINAGAR,UnderProgession,9007,7
+5008,"social gathering",300,"2022-05-10 13:56:44",NO,GANDHINAGAR,Approved,9008,8
+5009,wedding,200,"2022-05-10 13:44:44",NO,GANDHINAGAR,Approved,9009,9
+5010,wedding,400,"2022-05-10 13:44:44",NO,GANDHINAGAR,Approved,9010,10

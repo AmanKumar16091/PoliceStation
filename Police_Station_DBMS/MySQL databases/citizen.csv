@@ -1,0 +1,13 @@
+user_id,password,aadhar_no,first_name,last_name,contact_no,email,house_no,locality,city,district,state,postal_code
+1,POLICE@123,123456789012,Vikas,Bishnoi,7339958565,exapmle1@hotmail,A-1201,"nehru park",Jodhpur,Jodhur,Gujarat,342027
+2,POLICE@124,123456789013,Vishal,kumar,7339958566,exapmle2@hotmail,A-1202,"shivaji park",gandhinagar,gandhinagar,Gujarat,342028
+3,POLICE@125,123456789014,ram,kholi,7339958567,example125@hotmail,A-1203,rampur,gandhinagar,gandhinagar,Gujarat,NULL
+4,POLICE@126,123456789015,shyam,garbhyal,7339958568,exapmle126@hotmail,A-1204,krishna,gandhinagar,gandhinagar,Gujarat,342029
+5,POLICE@127,123456789016,ganesh,patel,7339958569,exapmle127@hotmail,A-1205,hanuman,harimagar,gandhinagar,Gujarat,342030
+6,POLICE@128,123456789017,dinesh,kumar,7339958570,exapmle128@hotmail,A-1206,"near monk",jaipur,jaipur,Gujarat,342028
+7,POLICE@129,123456789018,suresh,sharma,7339958571,exapmle129@hotmail,A-1207,"bjp head ",surat,surat,Gujarat,342028
+8,POLICE@130,123456789019,mukesh,deb,7339958572,exapmle130@hotmail,A-1208,"raj lab",surat,surat,Gujarat,342028
+9,POLICE@131,123456789020,virat,gandhi,7339958573,exapmle131@hotmail,A-1209,sector28,surat,surat,Gujarat,342028
+10,POLICE@132,123456789021,dhoni,kumar,7339958573,exapmle132@hotmail,A-1210,koba,lathur,lathur,Gujarat,342028
+11,POLICE@133,123456789022,anub,mangal,7339958574,exapmle133@hotmail,A-1211,kudason,surat,surat,Gujarat,342028
+12,POLICE@134,123456789023,amit,kumar,7339958575,exapmle134@hotmail,A-1212,motora,surat,surat,Gujarat,342028

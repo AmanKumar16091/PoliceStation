@@ -1,0 +1,5 @@
+vehicle_id,vehicle_no,vehicle_type,description,official_id
+101,Rj19SA1201,Bike,"service pending",9001
+102,Rj19SA1202,"Four Wheeler",ready,9004
+103,Rj19SA1203,Bike,ready,9006
+104,Rj19SA1204,Bike,ready,9007

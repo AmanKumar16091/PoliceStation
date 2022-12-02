@@ -1,0 +1,7 @@
+weapon_id,no_of_bullets,weapon_type,quantity,description,official_id
+601,10,riffle,1,NICE,9001
+602,33,pistol,2,NICE,9002
+603,20,pistol,1,NICE,9003
+604,34,riffle,1,NICE,9004
+605,50,riffle,1,NICE,9005
+606,,"Tear gas",4,NICE,9006
